@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection using Autoencoders
 
-![Credit Card Fraud Detection](![1*Lci4cCUXgb6zZRyKmgWfVA](https://github.com/rajaamani/Credit-Card-Fraud-Detection-/assets/101103515/dd5facaf-607c-4da9-8252-99c97336df23))
+![Credit Card Fraud Detection](https://github.com/rajaamani/Credit-Card-Fraud-Detection-/assets/101103515/dd5facaf-607c-4da9-8252-99c97336df23)
 
 **Table of Contents:**
 - [Project Overview](#project-overview)
@@ -102,9 +102,6 @@ This project demonstrates the effectiveness of using autoencoders for feature ex
 
 In conclusion, this project showcases the power of autoencoders in improving the accuracy of credit card fraud detection. By encoding and transforming the data, we were able to achieve an 88% accuracy rate with a linear classifier, highlighting the potential benefits of this approach in real-world applications.
 
-![Autoencoder Architecture](
-![ML1533-image003](https://github.com/rajaamani/Credit-Card-Fraud-Detection-/assets/101103515/da83865a-4105-4385-b09b-073b7406855c)
+![Autoencoder Architecture](https://github.com/rajaamani/Credit-Card-Fraud-Detection-/assets/101103515/da83865a-4105-4385-b09b-073b7406855c)
 
-)
-![Autoencoder--Architecture](![autoencoder_schema](https://github.com/rajaamani/Credit-Card-Fraud-Detection-/assets/101103515/62d5f871-d4be-4b04-bf29-68bbede1425b)
-)
+![Autoencoder--Architecture](https://github.com/rajaamani/Credit-Card-Fraud-Detection-/assets/101103515/62d5f871-d4be-4b04-bf29-68bbede1425b)
