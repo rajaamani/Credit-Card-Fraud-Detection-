@@ -45,8 +45,8 @@ The following libraries are required to run this project:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/rajaamani/Credit-Card-Fraud-Detection-.git
-   cd Credit-Card-Fraud-Detection
+   git clone https://github.com/rajaamani/Credit-Card-Fraud-Detection-using-Autoencoders.git
+   cd Credit-Card-Fraud-Detection-using-Autoencoders
    ```
 
 2. Install the required dependencies:
