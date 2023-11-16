@@ -25,6 +25,10 @@ This project utilizes autoencoder architecture for credit card fraud detection. 
 
 Autoencoders consist of two components: an encoder and a decoder, both implemented as neural networks. The encoder extracts latent (hidden) representations from the input data, while the decoder reconstructs the original data from these representations.
 
+![Autoencoder Architecture](https://github.com/rajaamani/Credit-Card-Fraud-Detection-/assets/101103515/da83865a-4105-4385-b09b-073b7406855c)
+
+![Autoencoder--Architecture](https://github.com/rajaamani/Credit-Card-Fraud-Detection-/assets/101103515/62d5f871-d4be-4b04-bf29-68bbede1425b)
+
 ## Dataset
 
 The dataset used in this project is `creditcard.csv`, which contains historical credit card transactions. The objective is to train an autoencoder to find hidden patterns and then apply a linear classifier to distinguish between fraudulent and genuine transactions.
@@ -102,6 +106,4 @@ This project demonstrates the effectiveness of using autoencoders for feature ex
 
 In conclusion, this project showcases the power of autoencoders in improving the accuracy of credit card fraud detection. By encoding and transforming the data, we were able to achieve an 88% accuracy rate with a linear classifier, highlighting the potential benefits of this approach in real-world applications.
 
-![Autoencoder Architecture](https://github.com/rajaamani/Credit-Card-Fraud-Detection-/assets/101103515/da83865a-4105-4385-b09b-073b7406855c)
 
-![Autoencoder--Architecture](https://github.com/rajaamani/Credit-Card-Fraud-Detection-/assets/101103515/62d5f871-d4be-4b04-bf29-68bbede1425b)
